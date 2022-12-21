@@ -6,8 +6,8 @@ CANVAS_WIDTH = 640
 CANVAS_HEIGHT = 480  
 CANVAS_CENTER_X = CANVAS_WIDTH / 2  
 CANVAS_CENTER_Y = CANVAS_HEIGHT / 2  
-IMAGE_ENLARGE = 11  
-HEART_COLOR = "#ffffff"  #chỉnh màu ở đây
+IMAGE_ENLARGE = 15  
+HEART_COLOR = "#ff0000"  #chỉnh màu ở đây
 
 def heart_function(t, shrink_ratio: float = IMAGE_ENLARGE):
 
